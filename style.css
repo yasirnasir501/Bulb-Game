@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(29, 25, 45);
+}
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: #fff;
+}
+
+#bulbIMG{
+    height: 150px;
+    width: 100px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.btnn{
+    display: flex;
+    justify-content: center;
+}
+
+.btnn button{
+    height: 50px;
+    width: 70px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 20px;
+    color: #fff;
+    background-color: rgb(236, 71, 0) ;
+    border: none;
+}
